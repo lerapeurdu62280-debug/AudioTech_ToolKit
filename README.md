@@ -80,7 +80,7 @@ Voici les fonctionnalités prévues ou terminées :
 
 [x] Ajout d'un calculateur pour résistances de LED.
 
-[x] Guide de réparation consultable (voir https://www.google.com/search?q=GUIDE_REPARATION.md).
+[x] Guide de réparation consultable (https://github.com/lerapeurdu62280-debug/SOS-INFO-LUDO/blob/main/GUIDE_REPARATION.md).
 
 [ ] Base de données des pannes courantes (Wiki).
 
